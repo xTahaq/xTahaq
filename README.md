@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Taha</h1>
-<p>I am a developer and 16 years old Turkish INFP 9w1 who's going through depression a bit and doing coding sometimes as a hobby.<br>
+<p>I am a Turkish developer who's doing coding sometimes as a hobby.<br>
 I first started my coding journey with Lua game programming :) At the end I realized I liked doing stuff like this and started to learn other languages. I'm actively trying to improve myself to be a better developer.<br></p>
 
 <p>Best way to contact me is via Discord. I am always active there!</p>
